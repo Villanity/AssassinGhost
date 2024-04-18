@@ -38,7 +38,7 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [🚀 Google Gemini 1.5 Pro: Multimodal Dev Mastery &amp; 1.5B Context Deep-Dive! 🌐](https://www.youtube.com/watch?v=CUhs5Fvrb_4)
+- [Google Gemini 1.5 Pro: Everything You NEED To Know](https://www.youtube.com/watch?v=CUhs5Fvrb_4)
 - [Mastering Groq AI setup guide - with step-by-step instructions](https://www.youtube.com/watch?v=Xi8L1fF5N9M)
 - [Mastering Anti-Phishing: Kali Linux Tools Tutorial #python #codeinterpreter #coding #codecoverage](https://www.youtube.com/watch?v=V2E8DHP0vTo)
 - [Python Log Parsing Simplified: Read, Parse, Output#codeinterpreter #python #codecoverage #coding #ai](https://www.youtube.com/watch?v=PIRMvWY5yho)
