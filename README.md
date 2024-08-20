@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mastering Flux: How to Fine-Tune AI Models for Custom Image Generation](https://www.youtube.com/watch?v=rrFsr9MpQgE)
 - [Mastering Python Log Analysis: From Apache Logs to Actionable Insights](https://www.youtube.com/watch?v=PSrLDvv7Exc)
 - [Automate Your Deployments: Step-by-Step Jenkins Pipeline Setup on Linux!](https://www.youtube.com/watch?v=_x6HRJd_vqE)
 - [Microsoft AI Event Recap: Exclusive GPT-4.0 Features, Copilot AI, and New Multimodal Capabilities!](https://www.youtube.com/watch?v=RJLHlVTibfs)
 - [Unlock GPT-4o&#39;s FREE Multimodal Power! 🔓 Python Image &amp; Audio AI](https://www.youtube.com/watch?v=1JUBxVPc5Mw)
-- [Creating an AI Image Similarity Engine in Python](https://www.youtube.com/watch?v=A5PF7OndIaA)
 <!-- YOUTUBE:END -->
 
 ---
