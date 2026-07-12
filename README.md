@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Same AI Model. 10x Different Score. Here&#39;s Why. #Shorts](https://www.youtube.com/shorts/ac6ZyU9xcp4)
 - [You&#39;re Obsessing Over the Wrong Thing in AI Coding](https://www.youtube.com/watch?v=b1BCnDX2zAk)
 - [This Is Your Brain on ChatGPT 🧠 #Shorts](https://www.youtube.com/shorts/WW1z04kK49Q)
 - [AI Is Making You Dumber — Here&#39;s the Proof &lpar;and the Fix&rpar;](https://www.youtube.com/watch?v=C9tKGem56E8)
 - [45% of AI Code Ships a Security Hole &lpar;And Nobody Reads It&rpar;](https://www.youtube.com/watch?v=tgefVQotJqc)
-- [The Infrastructure Problem With LLMsagent system explainer sfx](https://www.youtube.com/watch?v=fFlPpTwbbJU)
 <!-- YOUTUBE:END -->
 
 ---
