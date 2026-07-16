@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MCP vs A2A: Two Protocols Everyone Is Using Wrong](https://www.youtube.com/watch?v=395Jw11OlTE)
 - [An Email Nobody Opened Stole Their Files 😳 #Shorts](https://www.youtube.com/shorts/S1NqrmBOHBY)
 - [Production-Ready RAG: Speed, Cost, and Accuracy Trade-offs](https://www.youtube.com/watch?v=Z43qO0Nh18Y)
 - [Prompt Injection: The Unpatchable Flaw in Every AI Agent](https://www.youtube.com/watch?v=5Yp5UTmgwGg)
 - [The Advanced RAG Strategy Most Developers Skip](https://www.youtube.com/watch?v=IQxjrs4faYA)
-- [You Don&#39;t Need a Server Rack: The Real Win for Open AI](https://www.youtube.com/watch?v=zCGzFgn4InI)
 <!-- YOUTUBE:END -->
 
 ---
