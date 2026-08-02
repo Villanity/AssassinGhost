@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How a 284B AI Model Runs on a Laptop With No GPU](https://www.youtube.com/watch?v=c5tkjXLCmxw)
 - [12 Self-Hosted Apps That Kill Your Monthly Subscriptions](https://www.youtube.com/watch?v=63M5ZYTG5mE)
 - [TCP&#39;s Fatal Flaw — And the Protocol Quietly Replacing It](https://www.youtube.com/watch?v=ujiLCr8jRhU)
 - [ChatGPT Keeps Refusing? 5 Local AI Models for Security #shorts](https://www.youtube.com/shorts/P35PUQVF364)
 - [Stop Downloading the Wrong Local LLM — 2026&#39;s Best for Every Job](https://www.youtube.com/watch?v=wk1PUVz7-AQ)
-- [How &quot;Username Already Taken&quot; Works at a Billion Users](https://www.youtube.com/watch?v=KybWokmDL3Q)
 <!-- YOUTUBE:END -->
 
 ---
