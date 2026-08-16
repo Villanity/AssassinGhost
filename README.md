@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I Built a Tool That Blocks the npm Worm Before It Runs](https://www.youtube.com/watch?v=qzivbYlmFxg)
 - [MCP vs API: Why AI Agents Need MCP #Shorts](https://www.youtube.com/shorts/AOIq8JT334o)
 - [How Two Bugs Turn Langflow Into Instant Server Takeover](https://www.youtube.com/watch?v=knFm7rFpffQ)
 - [How a 284B AI Model Runs on a Laptop With No GPU](https://www.youtube.com/watch?v=c5tkjXLCmxw)
 - [12 Self-Hosted Apps That Kill Your Monthly Subscriptions](https://www.youtube.com/watch?v=63M5ZYTG5mE)
-- [TCP&#39;s Fatal Flaw — And the Protocol Quietly Replacing It](https://www.youtube.com/watch?v=ujiLCr8jRhU)
 <!-- YOUTUBE:END -->
 
 ---
