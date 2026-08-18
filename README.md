@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How Open Models Caught GPT &amp; Claude #Shorts](https://www.youtube.com/shorts/LlmasEM6X2k)
 - [AI Was Told It Was a Simulation. So It Hacked Real Companies.](https://www.youtube.com/watch?v=B4D8CXclXdY)
 - [Why LLMs Got 10-20x Faster &lpar;Same GPUs&rpar; #Shorts](https://www.youtube.com/shorts/xK_wEk1IBXk)
 - [How a Fake File Turns Cursor Into a Silent Backdoor](https://www.youtube.com/watch?v=U4QYxgfIygg)
 - [MCP vs A2A Explained in 60 Seconds #Shorts](https://www.youtube.com/shorts/KFQMgSVzkqw)
-- [I Built a Tool That Blocks the npm Worm Before It Runs](https://www.youtube.com/watch?v=qzivbYlmFxg)
 <!-- YOUTUBE:END -->
 
 ---
