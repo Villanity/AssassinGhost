@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Prompt, Context, Loop, Graph: How AI Agents Actually Got Built](https://www.youtube.com/watch?v=PWwjOuDDsAE)
 - [Why Your RAG Gives Wrong Answers &lpar;5 Culprits&rpar; #Shorts](https://www.youtube.com/shorts/FYeLuFTqiPc)
 - [Why AI Chats Get Slower The Longer You Talk &lpar;KV Cache Explained&rpar;](https://www.youtube.com/watch?v=t0exIymdqjI)
 - [Your RAG Costs $12,000/Month — Fix It #Shorts](https://www.youtube.com/shorts/0g6cM-LMcro)
 - [Your Vector Database Doesn&#39;t Actually Find the Nearest Match](https://www.youtube.com/watch?v=bEgT9JtX3Dk)
-- [The Cheapest AI Model Is a Trap #Shorts](https://www.youtube.com/shorts/z3uDjFBwhCY)
 <!-- YOUTUBE:END -->
 
 ---
