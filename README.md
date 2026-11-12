@@ -38,11 +38,11 @@ Linux           ██████████████████░░░�
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Best Open-Source AI Models for Coding and Security &lpar;Don&#39;t Run Them Like This&rpar;](https://www.youtube.com/watch?v=Ugtld5SJBfM)
 - [Forget CodeRabbit &amp; Greptile: Use This Free AI Code Reviewer](https://www.youtube.com/watch?v=lNJRQjdQLw4)
 - [Drunken gamer](https://www.youtube.com/watch?v=U7izK2z5i30)
 - [Prompt, Context, Loop, Graph: How AI Agents Actually Got Built](https://www.youtube.com/watch?v=PWwjOuDDsAE)
 - [Why Your RAG Gives Wrong Answers &lpar;5 Culprits&rpar; #Shorts](https://www.youtube.com/shorts/FYeLuFTqiPc)
-- [Why AI Chats Get Slower The Longer You Talk &lpar;KV Cache Explained&rpar;](https://www.youtube.com/watch?v=t0exIymdqjI)
 <!-- YOUTUBE:END -->
 
 ---
